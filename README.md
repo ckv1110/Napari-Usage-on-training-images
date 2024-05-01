@@ -1,6 +1,6 @@
 # Napari Usage on Training Images
 ## A tutorial and script for using napari to segment images
-1. ### Installing anaconda and napari on Windows, Linux, and Intel-cpu Macs
+1. ### Installing anaconda and napari on Windows, Linux, and Intel-chip Macs
     - Anaconda installation can be found here: https://docs.anaconda.com/free/anaconda/install/index.html
     - After installation, you can launch it in terminal by typing `conda` in the terminal
     - Create an isolated environment in `conda` so you can install napari without fuss. 
