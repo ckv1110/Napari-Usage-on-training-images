@@ -30,21 +30,21 @@
     ![Loaction of New Labels Layer](https://i.imgur.com/XOcwFtG.jpeg)
     - You will see this after the new labels layer is created. Here are some key parts that you will be using!
         * __Label tab__ __(1)__ - Important for selecting which class of tumour microenvironment to segment. Here is the convention that we are sticking with (The tumour microenvironment will correspond with the number):
-            1. Normal Brain
-            2. Leading Edge of the Tumour
-            3. Tumour Core
-            4. Peri-Necrotic Zone
-            5. Necrotic Zone
+            1. Normal Brain __(1)__
+            2. Leading Edge of the Tumour __(2)__
+            3. Tumour Core __(3)__
+            4. Peri-Necrotic Zone __(4)__
+            5. Necrotic Zone __(5)__
             - Note that we will be segmenting the entire tumour slide
             - You can use the + and - signs in the __label__ tab to switch labels to whichever tumour microenvironment class that you want to segment first 
         * __Paint Brush tool (Green box)__ - Useful for drawing boundaries for each tumour microenvironment class
         * __Paint Bucket tool (Red box)__ - Useful for filling in the drawn boundaries
             * _Note!_ By default, most of the shown tools at the top bar are hot keyed to the numbers shown below:
-            1. Eraser
-            2. Paint Brush
-            3. Paint Bucket
-            4. Pick Mode
-            5. Move image
+            1. Eraser __(1)__
+            2. Paint Brush __(2)__
+            3. Paint Bucket __(3)__
+            4. Pick Mode __(4)__
+            5. Move image __(5)__
             * __Important!__ Remember select the move image mode if you want to move the image. You might accidentally draw or paint bucket the entire image if you forget to select the move image mode!
         * __Opacity tab (2)__ - Useful for adjusting the transparency of your labels to aid in your segmentation process
         * __Brush Size tab (3)__ - To adjust your brush size tool
